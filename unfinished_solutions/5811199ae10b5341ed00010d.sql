@@ -1,0 +1,1 @@
+SELECT * FROM people GROUP BY id HAVING MIN(age) > 42
