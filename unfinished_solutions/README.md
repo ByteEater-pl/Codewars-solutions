@@ -1,0 +1,1 @@
+Codewars calls these unfinished solutions. In some cases it seems that I simply forgot to press Submit (to which the button label changes if all the tests pass) after Attempt. One is marked as Retired. Plan to investigate.
